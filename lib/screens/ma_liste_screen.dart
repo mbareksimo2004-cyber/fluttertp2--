@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 
 import '../data/livres_data.dart';
+import '../models/livre.dart';
 
 /// Écran « Ma liste » : les livres que l'on a lus (ou pas).
 ///

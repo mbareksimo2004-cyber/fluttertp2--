@@ -49,3 +49,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Dossier de travail local (squelette Flutter généré à la racine)
+/ma_biblio/
