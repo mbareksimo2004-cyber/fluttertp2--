@@ -46,5 +46,4 @@ flutter test      # 11 tests (widget + unitaires)
 
 Le dépôt suit le découpage du TP en huit parties (une partie = un commit) :
 `ListTile` → `ListView` → `CheckboxListTile` → `Card` → `GridView` → `JSON`
-→ intégration finale. Le script d'automatisation est disponible dans
-[`deploy_tp.sh`](deploy_tp.sh).
+→ intégration finale.
